@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+/* leaflet css */
+@import url("https://unpkg.com/leaflet@1.6.0/dist/leaflet.css");
+/* leaflet routing machine plugin css */
+@import url("https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css");
+
+#mapId {
+  width: 100vw;
+  height: 100vh;
+}
